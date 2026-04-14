@@ -9,5 +9,4 @@ A quick reference for future me
 ✍️ How I Use This
 I write notes directly in Jupyter notebooks
 Test concepts with small datasets
-Break things and figure out why 😄
-Come back later as a reference
+
